@@ -1,0 +1,4 @@
+log/*
+conf.d/*
+html/*
+certs/*
