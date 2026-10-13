@@ -1,1 +1,1 @@
-# nginx_certbot
+### Вариант запуска связки nginx и certbot в Docker-контейнере
